@@ -10,3 +10,6 @@
 
 -- Step 3: Build the flat mart for analytics
 .read 3_create_flat_mart.sql
+
+-- Step 4: Build the skills mart for analytics
+.read 4_create_skills_mart.sql
